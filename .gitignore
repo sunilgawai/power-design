@@ -25,10 +25,8 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.env
 
 # Secrets — NEVER commit
-.env*
 *.key
 *.pem
 secrets.json
@@ -39,3 +37,4 @@ config.local.*
 *.tmp
 dist/
 build/
+config.bat
